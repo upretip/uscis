@@ -21,4 +21,3 @@ In this [example](exmaple_analysis.ipynb) I try to combine a few tools to get so
 3. Matplotlib - to create simple visualizations, bargraph, pie chart, etc
 
 
-This document will be improved once the project materializes
