@@ -1,7 +1,7 @@
 beautifulsoup4==4.7.1
 jupyterlab==1.0.2
 jupyterlab-server==1.0.0
-nbconvert==5.5.0
+nbconvert==6.5.1
 nbformat==4.4.0
 notebook==6.0.0
 numpy==1.16.4
